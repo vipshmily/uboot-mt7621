@@ -50,7 +50,7 @@ on:
       ddrparam:
         description: 'Prefered DDR Init Parameters'
         required: true
-        default: 'DDR3-256MiB'
+        default: 'DDR3-128MiB'
         type: choice
         options:
         - 'DDR2-64MiB'
